@@ -1,3 +1,9 @@
+mesa-git (0.0.2)  nitrux; urgency=medium
+
+  * Use correct PPA.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 29 Jan 2020 15:22:00 -0500
+
 mesa-git (0.0.1)  nitrux; urgency=medium
 
   * Create package.

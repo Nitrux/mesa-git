@@ -7,4 +7,4 @@
 # MESA Git #
 ############
 
-deb http://ppa.launchpad.net/kisak/kisak-mesa/ubuntu focal main
+deb http://ppa.launchpad.net/oibaf/graphics-drivers/ubuntu focal main
