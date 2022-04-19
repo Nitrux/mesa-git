@@ -9,4 +9,6 @@ puts "ADDING REPOSITORY KEYS."
 
  add_keys A03A4626
 
+apt-key export A03A4626 | gpg --dearmour -o /usr/share/keyrings/mesa-ppa.gpg
+
 apt -qq update
