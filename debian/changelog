@@ -1,3 +1,9 @@
+mesa-git (0.0.5)  nitrux; urgency=medium
+
+  * Remove key file and create key file again.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Tue, 04 May 2022 23:06:00 -0500
+
 mesa-git (0.0.4)  nitrux; urgency=medium
 
   * Export key to supress apt-key warning.
