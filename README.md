@@ -1,4 +1,4 @@
-# MESA (latest) [![Build Status](https://travis-ci.org/Nitrux/mesa-git.svg?branch=main)](https://travis-ci.org/Nitrux/mesa-git)
+# MESA (latest)
 
 Updated [MESA](https://launchpad.net/~oibaf/+archive/ubuntu/graphics-drivers) packages from git.
 
