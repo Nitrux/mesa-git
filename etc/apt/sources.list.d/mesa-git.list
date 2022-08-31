@@ -7,4 +7,4 @@
 # MESA Git #
 ############
 
-deb [arch=amd64 signed-by=/usr/share/keyrings/mesa-ppa.gpg] http://ppa.launchpad.net/oibaf/graphics-drivers/ubuntu focal main
+deb [arch=amd64 signed-by=/usr/share/keyrings/mesa-ppa.gpg] http://ppa.launchpad.net/oibaf/graphics-drivers/ubuntu jammy main
