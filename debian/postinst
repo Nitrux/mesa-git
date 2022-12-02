@@ -2,8 +2,6 @@
 
 #	Add key for repository.
 
-puts "ADDING REPOSITORY KEYS."
-
 apt-key adv --keyserver keyserver.ubuntu.com --recv-keys \
 	A03A4626
 
