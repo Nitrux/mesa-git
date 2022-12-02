@@ -1,3 +1,10 @@
 #!/bin/bash
 
-exit 0
+OLD_FILES='
+   /etc/apt/sources.list.d/mesa-git.list
+'
+rm -r $OLD_FILES || true
+
+apt-key del \
+    A03A4626 > /dev/null
+
