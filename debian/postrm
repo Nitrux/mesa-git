@@ -9,6 +9,6 @@ puts "REMOVING REPOSITORY KEYS."
 
  rm_keys 90935439
 
-rm /etc/apt/sources.list.d/mesa-git.list
+rm /etc/apt/sources.list.d/mesa-git.list || true
 
 apt -qq update
